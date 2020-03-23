@@ -1,11 +1,38 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "componentMap":{
+    "PsdDesigner": "OfficialPsdDesigner",
+    "Checkbox": "OfficialCheckbox",
+    "AstoreImage": "OfficialAstoreImage",
+    "Image": "OfficialImage",
+    "Collapse": "OfficialCollapse",
+    "Array": "OfficialArray",
+    "ColorPicker": "OfficialColorPicker",
+    "Container": "OfficialContainer",
+    "DisEditabled": "OfficialDisEditabled",
+    "Input": "OfficialInput",
+    "Link": "OfficialLink",
+    "Map": "OfficialMap",
+    "Radio": "OfficialRadio",
+    "Range": "OfficialRange",
+    "Select": "OfficialSelect",
+    "Switch": "OfficialSwitch",
+    "Tpsupload": "OfficialTpsupload",
+    "Video": "OfficialVideo",
+    "Tool": "OfficialTool",
+    "DatePicker": "OfficialDatePicker",
+    "Skip": "OfficialSkip",
+    "NumberPicker": "OfficialNumberPicker",
+    "Desc": "OfficialDesc",
+    "JsonEditor": "OfficialJsonEditor",
+    "PsdImage": "OfficialPsdImage",
+    "Designer": "TaobaowpWpDesigner",
+    "SingleImage": "TaobaowpSingleImage",
+    "Crowd": "TaobaowpCrowd",
+    "TextLink": "TaobaowpTextLink",
+    "Goods": "TaobaowpGoods",
+    "DefineTool": "TaobaowpDefineTool",
+    "ImageEditor": "TaobaowpImageEditor",
+    "Coupon": "TaobaowpCoupon",
+    "LubanForm": "TaobaowpLubanForm"
   }
 }
