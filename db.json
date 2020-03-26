@@ -33,6 +33,7 @@
     "DefineTool": "TaobaowpDefineTool",
     "ImageEditor": "TaobaowpImageEditor",
     "Coupon": "TaobaowpCoupon",
-    "LubanForm": "TaobaowpLubanForm"
+    "LubanForm": "TaobaowpLubanForm",
+    "InteractVideo": "TaobaowpInteractVideo"
   }
 }
