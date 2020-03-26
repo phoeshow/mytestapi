@@ -35,6 +35,7 @@
     "Coupon": "TaobaowpCoupon",
     "LubanForm": "TaobaowpLubanForm",
     "InteractVideo": "TaobaowpInteractVideo",
-    "AnimaImgPicker": "TaobaowpAnimaImgPicker"
+    "AnimaImgPicker": "TaobaowpAnimaImgPicker",
+    "UserDefine": "TaobaowpUserDefine"
   }
 }
